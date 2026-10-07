@@ -22,7 +22,7 @@ Aprendo rápido, me adapto con facilidad a nuevas herramientas y trabajo bien en
 ## 🗂️ Experiencia
 | Periodo | Rol | Organización | Funciones |
 |---|---|---|---|
-| [fecha inicio – fecha fin] | Practicante en [área] | Teleinformatics, Carepa | [mantenimiento de equipos, soporte a usuarios, redes, etc.] |
+ [10/10/2025 – 4/12/2025 | Practicante en sistemas| Teleinformatics, Carepa | [mantenimiento de equipos, soporte a usuarios, redes, etc.] |
 
 ## 🛠️ Técnicas y tecnologías
 - **Soporte y hardware:** Mantenimiento preventivo y correctivo · Ensamble de PC · Diagnóstico y reparación de equipos de cómputo
@@ -32,11 +32,6 @@ Aprendo rápido, me adapto con facilidad a nuevas herramientas y trabajo bien en
 - **Herramientas:** Git · GitHub · Visual Studio Code
 
 ## 📌 Repositorios principales
-| Repositorio | Descripción | Tecnologías |
-|---|---|---|
-| [nombre](enlace) | [qué hace, en una línea] | [stack] |
-| [nombre](enlace) | [qué hace, en una línea] | [stack] |
-| [nombre](enlace) | [qué hace, en una línea] | [stack] |
 
 ## ©️ Derechos de autor
 © 2026 Cristian Andrés González Hernández. Todos los derechos reservados.
